@@ -8,3 +8,8 @@ Før du kan starter main.py __skal__ du lige åbene Command prompt og skrive🦩
 ```bash
 pip install -r requirements.txt
 ```
+
+### Exe File
+Vis du ikke magter og download python så download det her i Exe file 
+
+[**Download Her**](https://github.com/GotFlamingo/Windows-Activator/releases/tag/windowskey)
